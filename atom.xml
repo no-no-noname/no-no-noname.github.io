@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://no-no-noname.github.io</id>
-    <title>RuikaIsland</title>
-    <updated>2020-06-24T07:12:12.843Z</updated>
+    <title>LuLukaIsland</title>
+    <updated>2020-06-24T07:14:42.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://no-no-noname.github.io"/>
     <link rel="self" href="https://no-no-noname.github.io/atom.xml"/>
     <subtitle>dss</subtitle>
     <logo>https://no-no-noname.github.io/images/avatar.png</logo>
     <icon>https://no-no-noname.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, RuikaIsland</rights>
+    <rights>All rights reserved 2020, LuLukaIsland</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://no-no-noname.github.io/post/hello-gridea/</id>
