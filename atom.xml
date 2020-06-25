@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://no-no-noname.github.io</id>
     <title>Lulukaisland</title>
-    <updated>2020-06-25T08:13:32.594Z</updated>
+    <updated>2020-06-25T10:07:34.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://no-no-noname.github.io"/>
     <link rel="self" href="https://no-no-noname.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://no-no-noname.github.io/images/avatar.png</logo>
     <icon>https://no-no-noname.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Lulukaisland</rights>
+    <entry>
+        <title type="html"><![CDATA[关于插画创作时的创意]]></title>
+        <id>https://no-no-noname.github.io/post/guan-yu-cha-hua-chuang-zuo-shi-de-chuang-yi/</id>
+        <link href="https://no-no-noname.github.io/post/guan-yu-cha-hua-chuang-zuo-shi-de-chuang-yi/">
+        </link>
+        <updated>2020-06-25T09:45:24.000Z</updated>
+        <content type="html"><![CDATA[<p>最近看了别人的视频，收到了一点启发。再加上之前我的思考和看到的文章，暂且写一下目前我的想法。<br>
+灵感固然重要，但是这只是第一步，用来明确&quot;我的喜好是什么&quot;这个问题。而之后的创作主题是思考出来的。<br>
+首先寻找到自己想要描画的主题，一两个关键词即可。这是出发点。然后确定这个人在做什么、ta和其他的物件有什么互动。（或者，你想体现什么，你想表达什么主题什么意义）整体的色调则是情绪的体现。用一两个词概括想要传达的氛围情感，然后确定相应的色调。<br>
+接着再从情绪词汇出发找出对应的物件，用来传达情感。<br>
+那么画中的基本元素和色调可以确定了。接下来需要考虑的就是造型光源和构图。前两个这里不提，关于构图我的想法是这样的：确定你要刻画的主体是什么，摄像机的角度是什么样，接下来做加法构成。可以先用黑白灰色块明确构成。去素材库里寻找合适的构图参考。<br>
+所以需要的准备工作就是素材库了。<br>
+我想，我需要这样的一个素材库。记录我想要刻画的主题、物件、元素，光影，可以参考的构图，色调，表现技法。大致就是如此。如果今后有新的想法，会进行补充。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[manga-01]]></title>
         <id>https://no-no-noname.github.io/post/manga-01/</id>
